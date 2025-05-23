@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @KillerKannibal
 - 👀 I’m interested in music and gaming with my friends
-- 🌱 I’m currently learning nothing atm
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python and C++
 - 📫 How to reach me Tiktok:@killerkannibal Discord:@killerkannibal
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i can fly jets backwards in GTA 5/GTA Online
+- ⚡ Fun fact: im skibidi
 
 <!---
 KillerKannibal/KillerKannibal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
