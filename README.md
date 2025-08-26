@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KillerKannibal
 - 👀 I’m interested in music and gaming with my friends
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning Python and C#
 - 📫 How to reach me Tiktok:@killerkannibal Discord:@killerkannibal
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: im skibidi
