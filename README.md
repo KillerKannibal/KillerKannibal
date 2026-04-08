@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>    👋 Hi, I’m @KillerKannibal<br>    👀 I’m interested in music and gaming with my friends<br>    🌱 I’m currently learning Python and C#<br>    📫 How to reach me Tiktok:@killerkannibal Discord:@killerkannibal<br>    😄 Pronouns: he/him<br>    ⚡ Fun fact: im skibidi<br><br>
+Hello I'm KillerKannibal, I am a developer from the UK, I am the creator of ExileOS, Founder of KKCC Games Studio. I also play way too much Rainbow Six Siege lol.
 
 
 # 💻 Tech Stack:
